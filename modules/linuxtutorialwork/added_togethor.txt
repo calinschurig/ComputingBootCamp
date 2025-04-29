@@ -1,0 +1,20 @@
+This is a new text file.
+I'm using it for piping. 
+And using filters.
+At least, that's what I expect it will be used for. 
+finished https://ryanstutorials.net/linuxtutorial/filemanipulation.php
+now I'm on: https://ryanstutorials.net/linuxtutorial/vi.php
+
+Now I'm going to test the less command on this text, as well as the cat command.
+
+
+That means it needs lots of lines
+So I'm making a lot of lines. 
+Isn't that neat? 
+
+No it's a waste of time. 
+Oh well.
+
+
+A rose by any other name would still smell as sweat. 
+End file
